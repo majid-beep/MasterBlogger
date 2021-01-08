@@ -7,3 +7,6 @@ E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Domain\ob
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CoreCompileInputs.cache
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.dll
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.pdb
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Domain\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Domain\obj\Debug\netcoreapp3.1\MB.Domain.csproj.CopyComplete

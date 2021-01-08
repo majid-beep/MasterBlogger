@@ -13,3 +13,5 @@ E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastru
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.dll
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.pdb
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.EFCore\obj\Debug\netcoreapp3.1\MB.Infrastructure.EFCore.genruntimeconfig.cache
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.dll
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.EFCore\bin\Debug\netcoreapp3.1\MB.Application.Contracts.pdb

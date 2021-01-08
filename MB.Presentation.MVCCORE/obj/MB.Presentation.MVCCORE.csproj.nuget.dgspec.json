@@ -142,7 +142,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -197,8 +201,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Application.Contracts\\MB.Application.Contracts.csproj": {
+                "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Application.Contracts\\MB.Application.Contracts.csproj"
+              },
               "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Application\\MB.Application.csproj": {
                 "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Application\\MB.Application.csproj"
+              },
+              "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Domain\\MB.Domain.csproj": {
+                "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Domain\\MB.Domain.csproj"
               },
               "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
                 "projectPath": "E:\\ONLINE-LEARNING\\UNDONE\\onion architecture (atriya) -DONE\\PROJECT\\MB.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"

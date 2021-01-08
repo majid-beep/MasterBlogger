@@ -4,7 +4,8 @@ using System.Text;
 
 namespace MB.Application.Contracts.Article
 {
-    class IArticleApplication
+    public interface IArticleApplication
     {
+        List<ArticleViewModel> GetList();
     }
 }

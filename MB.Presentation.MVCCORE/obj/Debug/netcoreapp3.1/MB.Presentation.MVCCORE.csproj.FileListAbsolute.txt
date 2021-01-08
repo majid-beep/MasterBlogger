@@ -109,3 +109,4 @@ E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Presentat
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Presentation.MVCCORE\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Presentation.MVCCORE\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstrator\Pages\ArticleManagement\List.cshtml.g.cs
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Presentation.MVCCORE\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstrator\Pages\ArticleManagement\Create.cshtml.g.cs
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Presentation.MVCCORE\obj\Debug\netcoreapp3.1\Razor\Areas\Adminstrator\Pages\ArticleManagement\Edit.cshtml.g.cs

@@ -24,12 +24,21 @@ namespace MB.Domain.ArticleAgg
         public Article(string title, string image, string shortDescription, string content, long articleCategoryId)
         {
             Title = title;
-            Image = image;
             ShortDescription = shortDescription;
+            Image = image;
             Content = content;
             ArticleCategoryId = articleCategoryId;
             IsDeleted = false;
             CreationDate = DateTime.Now;
+        }
+        public void Edit(string title, string image, string shortDescription, string content, long articleCategoryId)
+        {
+
+            Title = title;
+            ShortDescription = shortDescription;
+            Image = image;
+            Content = content;
+            ArticleCategoryId = articleCategoryId;
         }
     }
 }

@@ -16,3 +16,5 @@ E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastru
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.Config\obj\Debug\netcoreapp3.1\MB.Infrastructure.Config.csproj.CopyComplete
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.Config\obj\Debug\netcoreapp3.1\MB.Infrastructure.Config.dll
 E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.Config\obj\Debug\netcoreapp3.1\MB.Infrastructure.Config.pdb
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.Config\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.dll
+E:\ONLINE-LEARNING\UNDONE\onion architecture (atriya) -DONE\PROJECT\MB.Infrastructure.Config\bin\Debug\netcoreapp3.1\MB.Infrastructure.Query.pdb

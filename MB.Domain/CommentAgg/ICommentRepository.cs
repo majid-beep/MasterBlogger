@@ -4,7 +4,8 @@ using System.Text;
 
 namespace MB.Domain.CommentAgg
 {
-    class ICommentRepository
+    public interface ICommentRepository
     {
+        void CreateAndSave(Comment entity);
     }
 }
